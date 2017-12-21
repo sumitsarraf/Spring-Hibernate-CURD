@@ -1,0 +1,9 @@
+com\concretepage\config\DBConfig.class
+com\concretepage\config\AppConfig.class
+com\concretepage\service\IPersonService.class
+com\concretepage\entity\Person.class
+com\concretepage\service\PersonService.class
+com\concretepage\controller\PersonController.class
+com\concretepage\dao\IPersonDAO.class
+com\concretepage\config\WebAppInitializer.class
+com\concretepage\dao\PersonDAO.class
